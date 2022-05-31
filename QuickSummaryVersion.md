@@ -33,7 +33,7 @@
       <td>Delete a bug</td>
     </tr>
     <tr>
-      <td><code>`/v1/bugs?status={resolved/unresolved}`</code></td>
+      <td><code>/v1/bugs?status={resolved/unresolved}</code></td>
       <td>N/A</td>
       <td>View all bugs marked as "resolved"</td>
       <td>N/A</td>
@@ -54,14 +54,14 @@
       <th>DELETE</th>
     </tr>
     <tr>
-      <td><code>`/v1/comments/{id}`</code></td>
+      <td><code>/v1/comments/{id}</code></td>
       <td>N/A</td>
       <td>N/A</td>
       <td>N/A</td>
       <td>Delete a comment from a bug</td>
     </tr>
     <tr>
-      <td><code>`/v1/comments`</code></td>
+      <td><code>/v1/comments</code></td>
       <td>Create a comment on a bug</td>
       <td>N/A</td>
       <td>N/A</td>
